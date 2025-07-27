@@ -4,6 +4,7 @@
 #include <algorithm>
 #include "string.h"
 #include "tinycthread.h"
+#include <cstdint>
 
 
 // For LMR
