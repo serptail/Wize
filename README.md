@@ -6,7 +6,7 @@
 
 
 # Wize
-Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for accurate evaluation and employs a range of advanced search techniques like LazySMP and Multithreading within Alpha-Beta framework, Wize strives to be a top-tier engine but also serves as a valuable resource for developers to enhance their own chess engines.
+Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for accurate evaluation and employs a range of advanced search techniques like LazySMP and Multithreading within Alpha-Beta framework, Wize doesn't strive to be a top-tier engine but serves as a valuable resource for developers to enhance their own chess engines.
 
 <p align="center">
   <img src="https://github.com/yanpuri/Wize/assets/121260820/b92ce538-2b81-4533-ada7-8bcf982f962d" alt="Wize Chess Engine">
