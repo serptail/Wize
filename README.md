@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://ko-fi.com/serptail">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
-  </a>
-</p>
-
-
 # Wize
 Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for accurate evaluation and employs a range of advanced search techniques like LazySMP and Multithreading within Alpha-Beta framework, Wize doesn't strive to be a top-tier engine but serves as a valuable resource for developers to enhance their own chess engines.
 
@@ -84,10 +77,6 @@ If you find RepoUp useful, consider supporting me by:
 - Sharing the tool with others
 - Providing feedback and suggestions
 - Follow me for more :)
-
-<a href="https://ko-fi.com/serptail">
-  <img src="https://github.com/user-attachments/assets/ba118768-9054-416f-b7b2-adaa69a53434" alt="Support me on Ko-fi" width="200" />
-</a>
     
 ---
 For any issues or feature requests, please open an issue on GitHub. Happy coding!
