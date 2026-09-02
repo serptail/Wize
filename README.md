@@ -59,11 +59,6 @@ Run the generated .exe file in the install dir.
 * How to work the engine?
 The UCI (Universal Chess Interface) serves as a widely adopted protocol for interacting with a chess engine and is the preferred method for communication in graphical user interfaces (GUIs) and chess-related tools. The guidelines are outlined in the UCI protocol, which can be accessed and referenced at this link http://page.mi.fu-berlin.de/block/uci.htm
 
-## Images
-
-### Gameboard
-![Gameboard](https://github.com/yanpuri/Wize/assets/121260820/0f71bdf5-ff01-4370-a158-a5095b6bb38d)
-
 ## Acknowledgements
 * [BluefeverSoftware](https://www.youtube.com/@BlueFeverSoft), YouTube series about Vice engine.
 * [CodeMonkeyKing](https://www.youtube.com/@chessprogramming591), General chess programming videos.
